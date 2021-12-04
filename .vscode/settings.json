@@ -2,7 +2,8 @@
     "window.zoomLevel": 0,
     "editor.fontSize": 20,
     "terminal.integrated.fontSize": 17,
-    "workbench.colorTheme": "Noctis Minimus",
+    "workbench.colorTheme": "Mayukai Semantic Mirage",
     "workbench.iconTheme": "vscode-icons",
-    
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "HookyQR.beautify"
 }
